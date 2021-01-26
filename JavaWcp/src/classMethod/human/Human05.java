@@ -13,7 +13,7 @@ public class Human05 {
 		return name;
 	}
 
-	public String getAge() {
+	public int getAge() {
 		return age;
 	}
 }
