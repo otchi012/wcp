@@ -25,7 +25,7 @@ public class Chapter10 {
 			System.out.println("SQLExceptionが発生しました");
 			e.printStackTrace();
 		} finally {
-			System.out.println("SQLExceptionの呼び出し終了");
+			System.out.println("throwSQLExceptionの呼び出し終了");
 		}
 
 		System.out.println("mainメソッド終了");
