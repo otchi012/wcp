@@ -10,9 +10,7 @@ public class Human {
 		this.age = age;
 	}
 
-	final pubulic String
-
-	getName() {
+	final public String getName() {
 		return this.name;
 	}
 
